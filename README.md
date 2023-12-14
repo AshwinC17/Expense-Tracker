@@ -1,4 +1,3 @@
-```markdown
 # Expense Tracker
 
 An easy-to-use expense tracker built with HTML, CSS, and JavaScript. Utilizes Bootstrap for styling.
@@ -15,7 +14,7 @@ An easy-to-use expense tracker built with HTML, CSS, and JavaScript. Utilizes Bo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/ashwinc17/expense-tracker.git
 
 2. Open the project in your favorite code editor.
 
@@ -32,7 +31,7 @@ An easy-to-use expense tracker built with HTML, CSS, and JavaScript. Utilizes Bo
 - HTML
 - CSS
 - JavaScript
-- [Bootstrap](https://getbootstrap.com/) (optional)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## Contributing
 
@@ -44,9 +43,6 @@ Contributions are welcome! Please follow these guidelines:
 4. Push to the branch: `git push origin feature/new-feature`.
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
@@ -54,9 +50,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out:
-
-- Your Name
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-username/)
-```
+For any questions or suggestions, feel free to reach out
